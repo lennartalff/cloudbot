@@ -1,0 +1,5 @@
+known_users: [
+  {id: 1234567, name: Karl Heinz, role: owner},
+  {id: 123432657, name: Dieter, role: admin},
+  {id: 233135, name: Jochen, role: user}
+]

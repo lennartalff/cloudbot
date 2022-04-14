@@ -1,0 +1,5 @@
+/settings.conf
+/user.cnf
+venv/
+logs/
+/known_telegram_ids.yaml
